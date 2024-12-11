@@ -16,3 +16,11 @@ This project demonstrates AWS Infrastructure as Code (IaC) using Terraform. It d
 1. Clone this repository:
    ```bash
    git clone git@github.com:Junyan714/terraform-aws-8903870.git
+2. Initialization
+   ```bash
+   terraform init
+3. Plan
+   ```bash
+   terraform plan
+4. Apply
+   terraform apply
